@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="cn.fly2think.template.MainActivity">
+
+    <item
+        android:id="@+id/action_undo"
+        android:orderInCategory="100"
+        android:title="Undo"
+        app:showAsAction="always"/>
+
+</menu>
